@@ -8,4 +8,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ...
--->
+ 
+![Umang's github stats](https://github-readme-stats.vercel.app/api?username=CAUmang&&bg_color=191919&text_color=ffffff&title_color=ffffff&icon_color=bb2acf)
