@@ -1,12 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Umang Agarwal</h1>
+<h3 align="center">A Chartered Accountant who codes.</h3>
 
-- 🔭 I’m currently working in Financial Due Diligence
-- 🌱 I’m currently learning SQL, Tableau
-- 👯 I’m looking to collaborate on SQL Projects
-- 🤔 I’m looking for help with Data Analyst roles
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ...
- 
-![Umang's github stats](https://github-readme-stats.vercel.app/api?username=CAUmang&&bg_color=191919&text_color=ffffff&title_color=ffffff&icon_color=bb2acf)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caumang&label=Profile%20views&color=0e75b6&style=flat" alt="caumang" /> </p>
+
+- 🌱 I’m currently learning **Python, SQL, PowerBI**
+
+- 👨‍💻 All of my projects are available at [https://caumang.github.io/UmangAgarwal/](https://caumang.github.io/UmangAgarwal/)
+
+- 📝 I regularly write articles on [https://medium.com/@aumang147](https://medium.com/@aumang147)
+
+- 📫 Reach me at **aumang147@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/umang-agarwal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-agarwal01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/umang_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umang_28" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caumang&show_icons=true&locale=en" alt="caumang" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caumang&" alt="caumang" /></p>
